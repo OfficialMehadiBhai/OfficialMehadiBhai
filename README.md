@@ -85,16 +85,6 @@ Status    : Learning Never Stops...
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/OfficialMehadiBhai/OfficialMehadiBhai/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 # ⚡ Fun Quote
 
 ```bash
